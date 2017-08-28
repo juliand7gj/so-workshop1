@@ -6,7 +6,7 @@
 ## Descripción
 El primer taller del curso sistemas operativos trata sobre el sistema operativo Linux, la estructura de sus directorios y virtualización 
 
-## Soluciones
+## Soluciones 
 
 1. La función de los directorios de raíz es agrupar los archivos de forma estructurada. El directorio principal es llamado “raíz” y se representa con “/”. A partir de la raíz se encuentras los siguientes directorios: 
 
